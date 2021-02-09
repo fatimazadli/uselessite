@@ -12,14 +12,28 @@ hr {
 }
 h1 {
   color: #7c9473;
+  font-size: 45px;
+  font-family: Times New Roman;
 }
 h3 {
   color: #7c9473;
+  font-size: 25px;
+  font-family: Times New Roman;
 }
 
 p2 {
-  color: black;
+  color: grey;
 }
 img {
-  height: 200px;
+  height: 220px;
+}
+li {
+  color: #433520;
+  font-size: 20px;
+  font-family: Times New Roman;
+}
+td{
+  color: #433520;
+  font-size: 20px;
+  font-family: Times New Roman;
 }
